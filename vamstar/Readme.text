@@ -1,0 +1,3 @@
+Run python script BMICalculator.py
+The output file is present in output/ folder
+To unit test the code , run script test_BMICalculator.py
